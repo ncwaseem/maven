@@ -14,7 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-<distributionManagement>
+ <distributionManagement>
     <repository>
         <id>central</id>
         <name>ip-172-31-35-200.ap-south-1.compute.internal-releases</name>
@@ -25,7 +25,7 @@
         <name>ip-172-31-35-200.ap-south-1.compute.internal-snapshots</name>
         <url>http://3.110.83.186:8081/artifactory/Wastest5</url>
     </snapshotRepository>
-</distributionManagement>
+ </distributionManagement>
   </dependencies>	
   <properties>
 		<!-- https://maven.apache.org/general.html#encoding-warning -->
